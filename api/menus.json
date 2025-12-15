@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Mie Ayam Original",
+    "description": "Mie ayam klasik dengan topping ayam gurih khas Mie Ayam Paksun",
+    "price": 12000
+  },
+  {
+    "id": "2",
+    "name": "Mie Ayam Bakso",
+    "description": "Mie ayam dengan tambahan bakso sapi kenyal",
+    "price": 15000
+  },
+  {
+    "id": "3",
+    "name": "Mie Ayam Ceker",
+    "description": "Mie ayam dengan ceker ayam empuk dan bumbu meresap",
+    "price": 14000
+  },
+  {
+    "id": "4",
+    "name": "Mie Ayam Pangsit",
+    "description": "Mie ayam dengan pangsit goreng renyah",
+    "price": 16000
+  },
+  {
+    "id": "5",
+    "name": "Mie Ayam Spesial",
+    "description": "Mie ayam lengkap dengan bakso, ceker, dan pangsit",
+    "price": 20000
+  }
+]
